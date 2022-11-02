@@ -24,3 +24,4 @@ const url1 = 'https://api.escuelajs.co/api/v1/products';
 const url2 = 'https://api.escuelajs.co/api/v1/categories';
 const productService = new BaseHttpService<Product>(url1);
 const categoryService = new BaseHttpService<Category>(url2);
+const myAss = 'ass for grass';
